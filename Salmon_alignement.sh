@@ -151,7 +151,7 @@ cd ../
 
 #GSE193866 
 
-cd ./GSE114913/
+cd ./GSE193866/
 
 # Running QC FastQC
 mkdir ./Output
